@@ -45,10 +45,9 @@ while (i < 6) {
 
 
   // task5
-  function sum(nam1,nam2){
-    console.log(nam1+nam2)
-    }
-    sum(zahraa,ahmed)
+  var num1="zahraa";
+  var num2="ahmed";
+  console.log(num1+num2);
 
   // task6
   var fruits =["apple" , "banana" ,"orange" , "blueberry"]
